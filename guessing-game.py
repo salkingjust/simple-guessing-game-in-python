@@ -1,6 +1,6 @@
 import random
 
-randomNumbers = random.randint(1,20)
+randomNumbers = random.randint(1,100)
 userChoice = 0
 
 while userChoice != randomNumbers:
